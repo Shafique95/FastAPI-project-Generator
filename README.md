@@ -41,12 +41,12 @@ This CLI tool helps you **generate a scalable FastAPI project structure** with p
 
 ### 🛠️ How to Use
 
-1. **Save the script** to a file, e.g. `generate.py`.
+1. **Save the script** to a file, e.g. `generate_fastapi_project.py`.
 
 2. **Run the script** from the terminal with your desired project name:
 
 ```bash
-python generate.py your_project_name
+python generate_fastapi_project.py your_project_name
 ```
 
 This will:
